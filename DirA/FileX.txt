@@ -1,1 +1,2 @@
 The time is 6 PM.
+The day is Wednesday.
